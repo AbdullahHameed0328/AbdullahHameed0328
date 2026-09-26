@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**AbdullahHameed0328/AbdullahHameed0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-Semester BS Software Engineering Student at Lahore Garrison University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer  
+🌱 Currently learning programming and web development  
+🚀 Interested in building practical projects and improving my development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- C++
+- HTML
+- CSS
+- JavaScript
+- Web Development
+- Programming
+- Problem Solving
+
+## 📌 Projects
+
+### 🧮 BMI Calculator – C++
+A beginner-level C++ project that calculates BMI based on user input and displays the corresponding BMI category.
+
+### 🩸 Khoon Connect
+A student web development project designed to connect voluntary blood donors with people in need during emergencies.
+
+**Technologies:** HTML, CSS, JavaScript
+
+## 🎯 Current Goal
+
+Continuously improve my programming skills, build practical projects, and gain hands-on experience in software development.
+
+## 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- GitHub: [AbdullahHameed0328](https://github.com/AbdullahHameed0328)
