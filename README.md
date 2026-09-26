@@ -32,5 +32,5 @@ Continuously improve my programming skills, build practical projects, and gain h
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/abdullah-hameed-2a8857351)
 - GitHub: [AbdullahHameed0328](https://github.com/AbdullahHameed0328)
